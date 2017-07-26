@@ -1,0 +1,13 @@
+/**
+* This is the place for overriding styles on the player
+*/
+
+#speechkit-player {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+a.speechkit__minimal__controls__attribution {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  transition: none !important;
+}

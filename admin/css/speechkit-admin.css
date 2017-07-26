@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+#speechkit h2 {
+  background-color: #BA68C8;
+  color: white;
+}
+
+.sk-metabox-button {
+  width: 100%;
+}
+
+.sk-admin-table {
+  text-align: left;
+}
